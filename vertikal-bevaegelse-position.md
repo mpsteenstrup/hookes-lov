@@ -14,7 +14,7 @@ $$
 
 hvor den resulterende kraft er positiv op af y-aksen.
 
-Den nye ligevægstposition kan beregnes ved at sætte $F=0$ ,
+Den nye ligevægstposition kan beregnes ved at sætte $F=0,$
 
 $$
 \begin{align}
