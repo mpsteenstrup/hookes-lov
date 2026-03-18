@@ -7,9 +7,11 @@ $$
 
 Dæmpningen bliver tilføjet med ```-d*v*abs(v)``` hvor ```v*abs(v)``` sørger for at kraften altid er modsatrettet bevægelsen, altså dæmpning.
 
-<iframe src='https://trinket.io/embed/glowscript/9483b4b19a?toggleCode=true' width='100%' height='400' frameborder='0' marginwidth='0' marginheight='0' allowfullscreen></iframe>
+![Dæmpning](billeder/daempning.png)
+[https://glowscript.org/#/user/mps/folder/hookeslov/program/vertikal-daempning](https://glowscript.org/#/user/mps/folder/hookeslov/program/vertikal-daempning)
 
-Øvelse
+###Øvelse
+
 * Kør programmet. 
 * Lav ```d``` større og beskriv bevægelsen.
 * Lav ```d``` negativ, hvad sker der så?
