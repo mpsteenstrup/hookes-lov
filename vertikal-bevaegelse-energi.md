@@ -9,10 +9,10 @@
 Vi skal undersøge energien i systemet hvor vi ved at
 
 $$
-E_{kin} = 1/2·m·v^2
-$$
-$$
-E_{pot,hook} = 1/2·k·y^2
+\begin{align}
+E_{kin} &= 1/2·m·v^2 \\
+E_{pot,hook} &= 1/2·k·y^2
+\end{align}
 $$
 
 ![Vertikal energi](billeder/vertikal-energi.png)
