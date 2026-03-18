@@ -19,9 +19,11 @@ Den nye ligevægstposition kan beregnes ved at sætte $F=0$ ,
 $$
 0 = -k·y_0-m·g
 $$
+
 $$
  -k·y_0 = m·g 
 $$
+
 $$
 y_0 = -\frac{m·g}{k}
 $$
