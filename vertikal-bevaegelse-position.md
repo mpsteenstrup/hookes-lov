@@ -17,15 +17,11 @@ hvor den resulterende kraft er positiv op af y-aksen.
 Den nye ligevægstposition kan beregnes ved at sætte $F=0$ ,
 
 $$
-0 = -k·y_0-m·g
-$$
-
-$$
- -k·y_0 = m·g 
-$$
-
-$$
-y_0 = -\frac{m·g}{k}
+\begin{align}
+0 &= -k·y_0-m·g \\
+-k·y_0 &= m·g \\
+y_0 &= -\frac{m·g}{k}
+\end{align}
 $$
 
 Den samlede model for bevægelse er
