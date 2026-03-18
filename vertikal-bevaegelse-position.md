@@ -5,18 +5,23 @@
 * [System med dæmpning](https://mpsteenstrup.github.io/hookes-lov/daempning.html)
 * [Bevægelsesligningerne](https://mpsteenstrup.github.io/hookes-lov/bevaegelsesligningerne.html)
 
+# Vertikal bevægelse - position
 Ved vertikal bevægelse bliver vi nød til at tage tyngdekraften med. Den resulterende kraft bliver
+
 $$
 F = -k\cdot y - m·g,
 $$
+
 hvor den resulterende kraft er positiv op af y-aksen.
 
-Den nye ligevægstposition kan beregnes ved at sætte F=0,
+Den nye ligevægstposition kan beregnes ved at sætte $F=0$,
+
 $$
 0 = -k·y_0-m·g \Leftrightarrow -k·y_0 = m·g \Leftrightarrow y_0 = -\frac{m·g}{k}
 $$
 
 Den samlede model for bevægelse er
+
 $$
 F = -k\cdot (y-y_0) - m·g.
 $$

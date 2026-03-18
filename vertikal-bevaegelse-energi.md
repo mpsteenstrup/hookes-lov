@@ -5,10 +5,13 @@
 * [System med dæmpning](https://mpsteenstrup.github.io/hookes-lov/daempning.html)
 * [Bevægelsesligningerne](https://mpsteenstrup.github.io/hookes-lov/bevaegelsesligningerne.html)
 
+# Vertikal bevægelse - energi
 Vi skal undersøge energien i systemet hvor vi ved at
 
 $$
-E_{kin} = 1/2·m·v^2 \\
+E_{kin} = 1/2·m·v^2
+$$
+$$
 E_{pot,hook} = 1/2·k·y^2
 $$
 

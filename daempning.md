@@ -5,7 +5,7 @@
 * [System med dæmpning](https://mpsteenstrup.github.io/hookes-lov/daempning.html)
 * [Bevægelsesligningerne](https://mpsteenstrup.github.io/hookes-lov/bevaegelsesligningerne.html)
 
-# system med dæmpning
+# System med dæmpning
 Vi vil simulere et system som svingen med en dæmpning som er proportional med farten i anden, hvilket svarer til en luftmodstand. Simuleringen er den sammen som ved lodret bevægelse men nu er kraften ændret så den er
 $$
 F = F_{fjeder}+F_{tyngde}+F_{dæmpning}

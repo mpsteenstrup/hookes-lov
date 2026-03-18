@@ -5,6 +5,7 @@
 * [System med dæmpning](https://mpsteenstrup.github.io/hookes-lov/daempning.html)
 * [Bevægelsesligningerne](https://mpsteenstrup.github.io/hookes-lov/bevaegelsesligningerne.html)
 
+# Bevægelsesligningerne - udledning
 Vi ved fra Newtons 2. lov at en resulterende kraft forskellig fra nul giver en acceleration. Hvis vi bruger Newtons 2. lov på Hooks lov får vi
 $$F_{res} = F_{hook}$$
 $$m\cdot a = -k\cdot x$$
