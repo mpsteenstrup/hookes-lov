@@ -1,3 +1,12 @@
+
+## Indholdsfortegnelse
+* [Horisontal bevægelse](https://mpsteenstrup.github.io/hookes-lov/horisontal-bevaegelse.html)
+* [Vertikal position](https://mpsteenstrup.github.io/hookes-lov/vertikal-bevaegelse-position.html)
+* [Vertikal energi](https://mpsteenstrup.github.io/hookes-lov/vertikal-bevaegelse-energi.html)
+* [System med dæmpning](https://mpsteenstrup.github.io/hookes-lov/daempning.html)
+* [Bevægelsesligningerne](https://mpsteenstrup.github.io/hookes-lov/bevaegelsesligningerne.html)
+
+
 Mange legemer kan ved små deformation beskrives ved Hooks lov. Det klassiske eksempel er en fjedder, men de fleste elastiske materialer og eks. stål ved let bøjning kan beskrives ved hooks lov. Hooks lov siger, at kraften, F, er proportional med længden af deformationen fra ligevægt, x. For en fjedder er det længden som fledderen bliver hevet væk fra ligevægt. 
 $$ F = -k\cdot x, $$ 
 k kaldes fjedderkonstanten og har ehneden newton/meter.

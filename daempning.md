@@ -1,5 +1,11 @@
-# system med dæmpning
+## Indholdsfortegnelse
+* [Horisontal bevægelse](https://mpsteenstrup.github.io/hookes-lov/horisontal-bevaegelse.html)
+* [Vertikal position](https://mpsteenstrup.github.io/hookes-lov/vertikal-bevaegelse-position.html)
+* [Vertikal energi](https://mpsteenstrup.github.io/hookes-lov/vertikal-bevaegelse-energi.html)
+* [System med dæmpning](https://mpsteenstrup.github.io/hookes-lov/daempning.html)
+* [Bevægelsesligningerne](https://mpsteenstrup.github.io/hookes-lov/bevaegelsesligningerne.html)
 
+# system med dæmpning
 Vi vil simulere et system som svingen med en dæmpning som er proportional med farten i anden, hvilket svarer til en luftmodstand. Simuleringen er den sammen som ved lodret bevægelse men nu er kraften ændret så den er
 $$
 F = F_{fjeder}+F_{tyngde}+F_{dæmpning}

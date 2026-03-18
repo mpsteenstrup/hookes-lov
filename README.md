@@ -1,7 +1,7 @@
-# Hookes lov
+
 Simulering af hookes lov.
 
-[https://trinket.io/mpsteenstrup_9752/courses/hookes-lov](https://trinket.io/mpsteenstrup_9752/courses/hookes-lov)
+[https://mpsteenstrup.github.io/hookes-lov/horisontal-bevaegelse.html](https://mpsteenstrup.github.io/hookes-lov/horisontal-bevaegelse.html)
 
 Mads Peter H. Steenstrup, Rysensteen Gymnasium, 2021, 
 
