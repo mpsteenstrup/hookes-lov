@@ -12,7 +12,7 @@ $$
 \begin{align}
 F_{res} &= F_{hook} \\
 m\cdot a &= -k\cdot x \\
-a = -\frac{k}{m}\cdot x.
+a &= -\frac{k}{m}\cdot x.
 \end{align}
 $$
 
@@ -58,9 +58,9 @@ Vi kan nu skrive bevægelsesligningerne ned for loddet.
 
 $$ 
 \begin{align}
-a(t) = A\cdot sin(\sqrt{k/m}\cdot t)\\
- v(t) = A\cdot\sqrt{k/m}\cdot  cos(\sqrt{k/m}\cdot t)\\
- x(t) = -A\cdot k/m \cdot sin(\sqrt{k/m}\cdot t)
+a(t) &= A\cdot sin(\sqrt{k/m}\cdot t)\\
+ v(t) &= A\cdot\sqrt{k/m}\cdot  cos(\sqrt{k/m}\cdot t)\\
+ x(t) &= -A\cdot k/m \cdot sin(\sqrt{k/m}\cdot t)
  \end{align}
  $$
 
